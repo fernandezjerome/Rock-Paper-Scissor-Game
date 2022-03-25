@@ -1,5 +1,10 @@
-# Rock-Paper-Scissor-Game
-Rock Paper Scissor Virtual Game
+# Changes
+- Added raise to how many games
+- Decorate Text designs
+- Convert all input to lower case to filter more choices
+- Add Colour orange to tie, Red to lost, and green to win
+- simplify code to 3 condition in confirming the winner
+
 
 ## Virtual Rock Paper Scissors Game!
 
