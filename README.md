@@ -1,3 +1,12 @@
+# Changes
+- Add Option How many games to win
+- Decorate Text designs
+- Convert all input to lower case to filter more choices
+- Add Colour orange to tie, Red to lost, and green to win
+- simplify code to 3 condition instead specifying all
+
+
+
 # Rock-Paper-Scissor-Game
 Rock Paper Scissor Virtual Game
 
